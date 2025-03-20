@@ -55,7 +55,7 @@ const player = new Fighter({
       frameMax: 8,
     },
     jump: {
-      imageSrc: "jump.png",
+      imageSrc: "Jump.png",
       frameMax: 2,
     },
     fall: {
